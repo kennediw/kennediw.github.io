@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "kjw",
+    "description": "",
+    "home_page_url": "https://kennediw.locedinside.com",
+    "feed_url": "https://kennediw.locedinside.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kennedi J. White"
+    },
+    "items": [
+    ]
+}
